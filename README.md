@@ -49,8 +49,7 @@ The dataset used is the **Mall Customer Segmentation Data**, which includes:
 - Identified 3 spending segments: Low, Medium, High.
 - Provided actionable insights for targeted marketing.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ```
 
 ---
